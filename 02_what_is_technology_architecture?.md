@@ -1,6 +1,6 @@
 ## **Technology architect**
 
-- Responsible for end-to-end [system design](obsidian://open?vault=Obsidian%20Vault&file=1%20Personal%2Ftechnical%2Farchitect%2FAkhil%20Sharma%2FSystem%20Design%2F01.%20Introduction)
+- Responsible for end-to-end system design
 - Thinks about the technologies that will be used
 - Thinks about the _architecture characteristics_
 	- considers various factors
