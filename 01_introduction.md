@@ -1,8 +1,9 @@
+
 ### Architect characteristics
 - Fault Tolerance
 - Modularity
 - Cost
-- Scalibility
+- Scalability
 - Deployability
 - Elasticity
 - Performance
@@ -38,13 +39,26 @@
 - Interpreter
 
 ### Different Types of architectures
-- Software architecture
-- Cloud architecture
-- Database architecture
-- Solutions architecture
+- **Software architecture**
+	-  Concerned with project architecture, design patterns(architecture) etc.
+- **Cloud architecture**
+	- Concerned with cloud architecture
+	- how modules and independent components work together
+	- which cloud technologies to use
+- **Database architecture**
+	- Concerned with the inner workings of the database
+	- ER diagrams etc.
+- **Technology architecture**
+	- Concerned with the entire lifecycle
+	- more or less a very senior developer that also manages other engineers
+- **Solutions architecture**
+	- Concerned with converting business reqs into viable technical solutions and plan
 	- Thinking about the technologies to be used
 	- Always be informed and updated with the latest tech in the market
 	- Finding the fasted and best at each stage
+- **Enterprise architecture**
+	- Concerned with understanding how the solution will work in conjunction with the rest of the enterprise architecture
+	- understanding data flow, storage and communication
 
 
 ### Books to refer
@@ -54,3 +68,4 @@
 - Foundations for architecting data solutions
 - Software architecture patterns
 - Software architecture: The hard parts
+
