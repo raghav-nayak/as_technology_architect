@@ -1,5 +1,9 @@
+### Architectural characteristics
+- Operational
+- Structural
+- Cross-cutting
 
-### Architect characteristics
+## architectural characteristics
 - Fault Tolerance
 - Modularity
 - Cost
@@ -10,7 +14,6 @@
 - Reliability
 - Simplicity
 - Testability
-
 ### Decision criteria
 - Domain
 - Data architecture
