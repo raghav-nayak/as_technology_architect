@@ -1,0 +1,20 @@
+### Operational architecture characteristics
+- Elasticity
+	- ease of adding and removing resources to scale up
+- Reliability
+	- handling faults and not failing completely
+	- How fail-safe is it?
+	- Assess if it is a mission critical
+- Availability
+	- how long the system will need to be available
+	- e.g. 24x7, P99 values
+- Recoverability
+	- How fast are we able 
+		- to come back online and 
+		- to what extent
+- Robustness
+	- Ability to handle errors and boundary conditions, edge cases
+- Continuity
+	- Disaster recovery capabilities and business continuity at the bare minimum
+- Performance
+	- stress testing, peak analysis, capacity, frequency of functions used
