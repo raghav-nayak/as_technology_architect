@@ -1,9 +1,9 @@
-### Architectural characteristics
+### Type of architectural characteristics
 - Operational
 - Structural
 - Cross-cutting
 
-## architectural characteristics
+### architectural characteristics
 - Fault Tolerance
 - Modularity
 - Cost
