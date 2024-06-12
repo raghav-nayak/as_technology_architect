@@ -1,0 +1,23 @@
+### Structural architectural characteristics
+- Configurability
+	- Ability for end users to easily changes and customize aspects
+- Extensibility
+	- How easy is it to add features
+- Installability
+	- Ease of installations
+	- e.g. using Docker, k8s
+- Levaragibility
+	- Ability to leverage common components
+	- Reduce repeat work or inventing wheel
+- Localization
+	- Support for multiple language, currencies, pincodes and locations
+- Maintainability
+	- How easy is it to apply changes to the system for the developers
+- Portability
+	- cross-platform
+	- e.g. Easily run on ubuntu as well windows servers
+	- Docker makes systems very portable
+- Supportability
+	- How easy is it to support? Or what level of technical proficiency is required to support
+- Upgradability
+	- Ability to quickly upgrade to the next version
