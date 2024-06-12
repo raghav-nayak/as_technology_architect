@@ -64,6 +64,13 @@
 	- understanding data flow, storage and communication
 
 
+### Stages of technical architecture
+1. Architectural characteristics
+2. Decision criteria for choosing a particular architecture
+3. Selecting architectural patterns
+
+<hr>
+
 ### Books to refer
 - Cloud native architectures: Design high-availability and cost-effective applications for the cloud
 - Fundamentals of software architecture
@@ -72,3 +79,6 @@
 - Software architecture patterns
 - Software architecture: The hard parts
 
+
+### Tools
+- [cloudcraft](https://www.cloudcraft.co/)
