@@ -1,1 +1,29 @@
-
+### Decision criteria for choosing a particular architecture
+- Domain
+	- need good understanding of the domain under design
+- Data architecture
+	- collaborate with DBA for the data architecture
+- **Org factors**
+	- external factors 
+	- e.g. vendor(AWS, GCP, Twillio etc), pricing.
+- Domain/architecture isomorphism
+	- microkernel for solutions that require customizability
+	- space based architecture for discreet operations
+		- e.g. genome analysis
+	- microservices for highly scalable apps
+- Monolith vs. Distributed
+- Data flow
+	- understanding data storage and flow throughout the system
+- Communication style
+	- synchronous vs. asynchronous
+	- synchronous 
+		- is convenient but can lead to scalability and reliability issues
+	- asynchronous
+		- has performance but challenges include
+			- data sync
+			- deadlocks
+			- race conditions
+- Miscellaneous
+	- internal processes
+	- team
+	- operation concerns
