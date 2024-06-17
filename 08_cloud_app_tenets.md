@@ -1,0 +1,29 @@
+- Stateless applications
+	- does not store session data of the client
+- Distributed compute
+	- can link together multiple computers over the internet
+- Non-local storage
+	- cloud storage
+		- storing data on cloud spanning over multiple locations
+		- not on on-premises HDDs
+- Redundant network connections 
+	- duplicated infrastructure where additional or alternative instances of network devices and connections are installed
+	- to **ensure an alternative** path in case of a failure on the primary service
+- Extensive and exhaustive monitoring
+	- monitoring at multiple levels and for all conditions
+	- i.e. app, db, infra
+- Immutable deployments
+	- launch a full set of new instances running the new version of the application in a separate autoscaling group, along side with the instances running on old code
+	- e.g. rolling updates
+- Self-healing infrastructure
+	- a set of servers that can detect a malfunction within its own operations and then repair a error(s) without outside intervention.
+	- this is after deployment
+	- e.g. using scripts
+- Deploying any anti-patterns are automatically detected and reported
+	- very similar to above
+	- this is during deployment
+- **Scalability and elasticity**
+	- scalable systems don't necessary mean they will scale up/down
+	- it's only about being able to reach the peak loads
+	- elastic workloads will recognize demands and adapt them
+	- it is both increasing and reducing the capacity
