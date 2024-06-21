@@ -1,9 +1,9 @@
 This is infrastructure level separation of concerns
-**1. Tier 1**
+1. **Tier 1**
 	- user interface
 		- views rendered in a browser
 		- CLI
-**2. Tier 2**
+2. **Tier 2**
 	- presentation
 		- views
 		- view models
@@ -28,7 +28,7 @@ This is infrastructure level separation of concerns
 		- framework,
 		- logging
 		- monitoring
-**3. Tier 3**
+3. **Tier 3**
 	- data
 		- database server
 		- search server
