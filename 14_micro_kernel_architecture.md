@@ -1,3 +1,4 @@
+### Micro kernel architecture
 - advanced monolith
 - 2 parts
 	- a core system
