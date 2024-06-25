@@ -1,0 +1,32 @@
+#architect #architecture 
+
+### Macro services
+- ease of deployment
+- separation of concern
+- reduced blast radius
+- maintainability
+- easy of the services is written in different languages
+- what separates this from microservices is
+	- **there is no micro concern**
+	- not decomposed
+	- e.g. finance service can be decomposed into small services
+- Business oriented decomposition
+	- e.g. 
+		- finance
+			- subscriptions
+			- taxation
+			- invoicing
+		- administration
+			- support
+			- knowledge base
+- Domain based decomposition
+	- e.g.
+		- Finance
+			- subscriptions
+				- card retries
+				- upgrade and downgrade
+			- taxation
+			- invoicing 
+				- creation
+				- reconciliation
+				- sending
